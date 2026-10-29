@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Outfit 2026-10-15 19:00",
+    "created": "2026-10-15 19:00",
+    "items": [
+      {
+        "id": "e1ca7c30",
+        "name": "Blue Shirt",
+        "image_path": "closet_data\\CloudHouz\\images\\6410a2dc_blue shirt.jpg",
+        "category": "Top"
+      },
+      {
+        "id": "60ca42d2",
+        "name": "Baggy Pants",
+        "image_path": "closet_data\\CloudHouz\\images\\406c206f_brown pants.jpg",
+        "category": "Bottom"
+      },
+      {
+        "id": "af97ed6d",
+        "name": "Black Asics Shoes",
+        "image_path": "closet_data\\CloudHouz\\images\\d1bcf07d_Black Asics.jpg",
+        "category": "Shoes"
+      },
+      {
+        "id": "00d23296",
+        "name": "Blue Flannel",
+        "image_path": "closet_data\\CloudHouz\\images\\7f74dec4_blue flannel.jpg",
+        "category": "Outer Top"
+      },
+      {
+        "id": "aeac6167",
+        "name": "Silver Necklace",
+        "image_path": "closet_data\\CloudHouz\\images\\84227a9d_Silver necklace.jpg",
+        "category": "Accessory"
+      }
+    ]
+  },
+  {
+    "name": "Outfit 2026-10-15 19:04",
+    "created": "2026-10-15 19:04",
+    "items": [
+      {
+        "id": "80753c6b",
+        "name": "Green Shirt",
+        "image_path": "closet_data\\CloudHouz\\images\\a17f1348_green shirt.jpg",
+        "category": "Top"
+      },
+      {
+        "id": "aa6a086c",
+        "name": "Corduroy Pants",
+        "image_path": "closet_data\\CloudHouz\\images\\79389245_Corduroy Pants.jpg",
+        "category": "Bottom"
+      },
+      {
+        "id": "af97ed6d",
+        "name": "Black Asics Shoes",
+        "image_path": "closet_data\\CloudHouz\\images\\d1bcf07d_Black Asics.jpg",
+        "category": "Shoes"
+      },
+      {
+        "id": "49534a50",
+        "name": "Brown Flannel",
+        "image_path": "closet_data\\CloudHouz\\images\\73c0549c_brown flannel.jpg",
+        "category": "Outer Top"
+      },
+      {
+        "id": "4a64b147",
+        "name": "Jade Pendant",
+        "image_path": "closet_data\\CloudHouz\\images\\6a32db6a_Jade Pendant.jpg",
+        "category": "Accessory"
+      }
+    ]
+  },
+  {
+    "name": "Full Fit 2026-10-29 09:47",
+    "created": "2026-10-29 09:47",
+    "items": [
+      {
+        "id": "4c18c98d",
+        "name": "Speed Offwhite Shirt",
+        "image_path": "closet_data\\CloudHouz\\images\\34405232_Speed OffWhite Shirt.jpg",
+        "category": "Top"
+      },
+      {
+        "id": "aa6a086c",
+        "name": "Corduroy Pants",
+        "image_path": "closet_data\\CloudHouz\\images\\79389245_Corduroy Pants.jpg",
+        "category": "Bottom"
+      },
+      {
+        "id": "af97ed6d",
+        "name": "Black Asics Shoes",
+        "image_path": "closet_data\\CloudHouz\\images\\d1bcf07d_Black Asics.jpg",
+        "category": "Shoes"
+      },
+      {
+        "id": "48dd1c1f",
+        "name": "Blue Leather",
+        "image_path": "closet_data\\CloudHouz\\images\\9c648d09_Blue Leather Jacket.jpg",
+        "category": "Outer Top"
+      },
+      {
+        "id": "0a17d2fd",
+        "name": "Flame Glasses",
+        "image_path": "closet_data\\CloudHouz\\images\\6b6ba54b_Flame Glasses.jpg",
+        "category": "Accessory"
+      }
+    ]
+  }
+]

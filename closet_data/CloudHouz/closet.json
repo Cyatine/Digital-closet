@@ -1,0 +1,348 @@
+{
+  "Top": [
+    {
+      "id": "475dba0b",
+      "name": "brown flannel",
+      "image_path": "closet_data\\CloudHouz\\images\\23e605fc_brown flannel.jpg",
+      "category": "Top"
+    },
+    {
+      "id": "80753c6b",
+      "name": "Green Shirt",
+      "image_path": "closet_data\\CloudHouz\\images\\a17f1348_green shirt.jpg",
+      "category": "Top"
+    },
+    {
+      "id": "e1ca7c30",
+      "name": "Blue Shirt",
+      "image_path": "closet_data\\CloudHouz\\images\\6410a2dc_blue shirt.jpg",
+      "category": "Top"
+    },
+    {
+      "id": "5b7cc191",
+      "name": "Veirdo",
+      "image_path": "closet_data\\CloudHouz\\images\\6cc275fd_Veirdo Oversized Green Shirt.jpg",
+      "category": "Top"
+    },
+    {
+      "id": "4c18c98d",
+      "name": "Speed Offwhite Shirt",
+      "image_path": "closet_data\\CloudHouz\\images\\34405232_Speed OffWhite Shirt.jpg",
+      "category": "Top"
+    },
+    {
+      "id": "cea140b5",
+      "name": "Green Polo Shirt",
+      "image_path": "closet_data\\CloudHouz\\images\\99c4698d_Green Polo Shirt.jpg",
+      "category": "Top"
+    },
+    {
+      "id": "a6a4eac3",
+      "name": "Evangelion Shirt",
+      "image_path": "closet_data\\CloudHouz\\images\\be6a33f6_Evangelion Tshirt.jpg",
+      "category": "Top"
+    },
+    {
+      "id": "028db99f",
+      "name": "Carpenter Striped Shirt",
+      "image_path": "closet_data\\CloudHouz\\images\\bda61408_Carpenter Striped Shirt.jpg",
+      "category": "Top"
+    },
+    {
+      "id": "1d959730",
+      "name": "Blue Cat Shirt",
+      "image_path": "closet_data\\CloudHouz\\images\\1e5c5806_Blue Cat Shirt.jpg",
+      "category": "Top"
+    },
+    {
+      "id": "8804839d",
+      "name": "Vetements Polo Shirt",
+      "image_path": "closet_data\\CloudHouz\\images\\88b90579_Vetements Polo Shirt.jpg",
+      "category": "Top"
+    }
+  ],
+  "Bottom": [
+    {
+      "id": "aa6a086c",
+      "name": "Corduroy Pants",
+      "image_path": "closet_data\\CloudHouz\\images\\79389245_Corduroy Pants.jpg",
+      "category": "Bottom"
+    },
+    {
+      "id": "60ca42d2",
+      "name": "Baggy Pants",
+      "image_path": "closet_data\\CloudHouz\\images\\406c206f_brown pants.jpg",
+      "category": "Bottom"
+    },
+    {
+      "id": "b262c285",
+      "name": "Vamtac",
+      "image_path": "closet_data\\CloudHouz\\images\\a3763907_Vamtac Pants.jpg",
+      "category": "Bottom"
+    },
+    {
+      "id": "b97702d5",
+      "name": "White Corduroy Pants",
+      "image_path": "closet_data\\CloudHouz\\images\\ed4a3a0d_White Corduroy Pants.jpg",
+      "category": "Bottom"
+    },
+    {
+      "id": "7c570556",
+      "name": "Camo Pants",
+      "image_path": "closet_data\\CloudHouz\\images\\54a43f0c_Camo Pants.jpg",
+      "category": "Bottom"
+    },
+    {
+      "id": "4a56449f",
+      "name": "Cat Denim Pants",
+      "image_path": "closet_data\\CloudHouz\\images\\7d97c91f_Cat Denim Pants.jpg",
+      "category": "Bottom"
+    },
+    {
+      "id": "654b85e1",
+      "name": "Tiger Denim Shorts",
+      "image_path": "closet_data\\CloudHouz\\images\\a8500a4b_Tiger Denim Shorts.jpg",
+      "category": "Bottom"
+    },
+    {
+      "id": "ea7751fe",
+      "name": "Pink Pants",
+      "image_path": "closet_data\\CloudHouz\\images\\73f34e90_Pink Jogging Pants.jpg",
+      "category": "Bottom"
+    },
+    {
+      "id": "a93689c5",
+      "name": "Orange Pants",
+      "image_path": "closet_data\\CloudHouz\\images\\148c099f_Orange Pants.jpg",
+      "category": "Bottom"
+    },
+    {
+      "id": "195bde97",
+      "name": "Oaklympic Pants",
+      "image_path": "closet_data\\CloudHouz\\images\\7b2b2fb9_Oaklympic Jogging Pants.jpg",
+      "category": "Bottom"
+    },
+    {
+      "id": "9add9624",
+      "name": "Purple Marble Tie Pants",
+      "image_path": "closet_data\\CloudHouz\\images\\d71acabf_Marble Tie Pants.jpg",
+      "category": "Bottom"
+    }
+  ],
+  "Shoes": [
+    {
+      "id": "af97ed6d",
+      "name": "Black Asics Shoes",
+      "image_path": "closet_data\\CloudHouz\\images\\d1bcf07d_Black Asics.jpg",
+      "category": "Shoes"
+    },
+    {
+      "id": "fb75f1aa",
+      "name": "Yellow Onitsuka Shoes",
+      "image_path": "closet_data\\CloudHouz\\images\\00db86a9_Yellow Onitsuka.jpg",
+      "category": "Shoes"
+    },
+    {
+      "id": "c743cefa",
+      "name": "Blue Samba",
+      "image_path": "closet_data\\CloudHouz\\images\\22e9a5c7_Adidas Blue Samba.jpg",
+      "category": "Shoes"
+    },
+    {
+      "id": "20e49535",
+      "name": "Black Converse",
+      "image_path": "closet_data\\CloudHouz\\images\\3957838b_Black Converse.jpg",
+      "category": "Shoes"
+    },
+    {
+      "id": "c8682cb5",
+      "name": "Black Loafers",
+      "image_path": "closet_data\\CloudHouz\\images\\92bec5cb_Black Loafers.jpg",
+      "category": "Shoes"
+    },
+    {
+      "id": "f6604044",
+      "name": "Blue Dunks",
+      "image_path": "closet_data\\CloudHouz\\images\\a7829db2_Blue Dunks.jpg",
+      "category": "Shoes"
+    },
+    {
+      "id": "e76ba29e",
+      "name": "Black Speedcat",
+      "image_path": "closet_data\\CloudHouz\\images\\7a94110b_Black Speedcat.jpg",
+      "category": "Shoes"
+    },
+    {
+      "id": "7e8a4583",
+      "name": "Blue Tokyo",
+      "image_path": "closet_data\\CloudHouz\\images\\678519d1_Blue Tokyo Shoes.jpg",
+      "category": "Shoes"
+    },
+    {
+      "id": "5e3d4107",
+      "name": "Brown Dunks",
+      "image_path": "closet_data\\CloudHouz\\images\\e267f1f2_Brown Dunks.jpg",
+      "category": "Shoes"
+    },
+    {
+      "id": "af408df7",
+      "name": "Burgundy Speedcat",
+      "image_path": "closet_data\\CloudHouz\\images\\15d67d60_Burgundy Speedcat.jpg",
+      "category": "Shoes"
+    },
+    {
+      "id": "94b5bd06",
+      "name": "Orange Samba",
+      "image_path": "closet_data\\CloudHouz\\images\\dcb1c1dc_Orange Samba.jpg",
+      "category": "Shoes"
+    },
+    {
+      "id": "d634b63f",
+      "name": "Oakley Blue Shoes",
+      "image_path": "closet_data\\CloudHouz\\images\\45f3f457_Oakley Blue Shoes.jpg",
+      "category": "Shoes"
+    }
+  ],
+  "Outer Top": [
+    {
+      "id": "49534a50",
+      "name": "Brown Flannel",
+      "image_path": "closet_data\\CloudHouz\\images\\73c0549c_brown flannel.jpg",
+      "category": "Outer Top"
+    },
+    {
+      "id": "00d23296",
+      "name": "Blue Flannel",
+      "image_path": "closet_data\\CloudHouz\\images\\7f74dec4_blue flannel.jpg",
+      "category": "Outer Top"
+    },
+    {
+      "id": "f9e09f05",
+      "name": "Yellow Denim Jacket",
+      "image_path": "closet_data\\CloudHouz\\images\\812c1ce4_Yellow Leather Jacket.jpg",
+      "category": "Outer Top"
+    },
+    {
+      "id": "ecda92ef",
+      "name": "Supreme Jacket",
+      "image_path": "closet_data\\CloudHouz\\images\\fec334e6_Supreme jacket.jpg",
+      "category": "Outer Top"
+    },
+    {
+      "id": "c7553e89",
+      "name": "Red Rib Jacket",
+      "image_path": "closet_data\\CloudHouz\\images\\ec437e33_Red Rib Jacket.jpg",
+      "category": "Outer Top"
+    },
+    {
+      "id": "8fe19200",
+      "name": "Purple Jacket",
+      "image_path": "closet_data\\CloudHouz\\images\\33f10fc7_Purple Jacket.jpg",
+      "category": "Outer Top"
+    },
+    {
+      "id": "481e4baa",
+      "name": "Nike Puffer Jacket",
+      "image_path": "closet_data\\CloudHouz\\images\\4e907e0d_Nike Puffer Jacket.jpg",
+      "category": "Outer Top"
+    },
+    {
+      "id": "4d282940",
+      "name": "LVMDA Green Jacket",
+      "image_path": "closet_data\\CloudHouz\\images\\bdede2ec_LVMDA Green Jacket.jpg",
+      "category": "Outer Top"
+    },
+    {
+      "id": "9d9d1b44",
+      "name": "Kith Olympics Jacket",
+      "image_path": "closet_data\\CloudHouz\\images\\6d5f8d30_Kith Olympics jacket.jpg",
+      "category": "Outer Top"
+    },
+    {
+      "id": "10e883c0",
+      "name": "Ferrari Jacket",
+      "image_path": "closet_data\\CloudHouz\\images\\082e95c3_Ferrari Jacket.jpg",
+      "category": "Outer Top"
+    },
+    {
+      "id": "48dd1c1f",
+      "name": "Blue Leather",
+      "image_path": "closet_data\\CloudHouz\\images\\9c648d09_Blue Leather Jacket.jpg",
+      "category": "Outer Top"
+    }
+  ],
+  "Accessory": [
+    {
+      "id": "4a64b147",
+      "name": "Jade Pendant",
+      "image_path": "closet_data\\CloudHouz\\images\\6a32db6a_Jade Pendant.jpg",
+      "category": "Accessory"
+    },
+    {
+      "id": "aeac6167",
+      "name": "Silver Necklace",
+      "image_path": "closet_data\\CloudHouz\\images\\84227a9d_Silver necklace.jpg",
+      "category": "Accessory"
+    },
+    {
+      "id": "88aecc4b",
+      "name": "TwoJeys Bracelet",
+      "image_path": "closet_data\\CloudHouz\\images\\1b816a9b_TwoJeys Bracelet.jpg",
+      "category": "Accessory"
+    },
+    {
+      "id": "de64f7c5",
+      "name": "Steel Watch",
+      "image_path": "closet_data\\CloudHouz\\images\\3b65da72_Steel Watch.jpg",
+      "category": "Accessory"
+    },
+    {
+      "id": "614bf235",
+      "name": "Blue Dragon Watch",
+      "image_path": "closet_data\\CloudHouz\\images\\5b4cc60e_Blue Dragon Watch.jpg",
+      "category": "Accessory"
+    },
+    {
+      "id": "5a7d5724",
+      "name": "Chrome Glasses",
+      "image_path": "closet_data\\CloudHouz\\images\\fe2d39bf_Chrome Glasses.jpg",
+      "category": "Accessory"
+    },
+    {
+      "id": "7e8c0f58",
+      "name": "Star Rings",
+      "image_path": "closet_data\\CloudHouz\\images\\ba6a5538_Star Rings.jpg",
+      "category": "Accessory"
+    },
+    {
+      "id": "3d7b34ac",
+      "name": "Nike Flame Cap",
+      "image_path": "closet_data\\CloudHouz\\images\\8e507991_Nike Flam Cap.jpg",
+      "category": "Accessory"
+    },
+    {
+      "id": "838b67d9",
+      "name": "Saint Woods Cap",
+      "image_path": "closet_data\\CloudHouz\\images\\c834b443_Saints Woods Cap.jpg",
+      "category": "Accessory"
+    },
+    {
+      "id": "7fe03fb4",
+      "name": "NeoVision Cap",
+      "image_path": "closet_data\\CloudHouz\\images\\92423672_NeoVision Camo Cap.jpg",
+      "category": "Accessory"
+    },
+    {
+      "id": "948c4c63",
+      "name": "Brown Leather Watch",
+      "image_path": "closet_data\\CloudHouz\\images\\9e283d83_Brown Leather Watch.jpg",
+      "category": "Accessory"
+    },
+    {
+      "id": "0a17d2fd",
+      "name": "Flame Glasses",
+      "image_path": "closet_data\\CloudHouz\\images\\6b6ba54b_Flame Glasses.jpg",
+      "category": "Accessory"
+    }
+  ]
+}
